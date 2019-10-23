@@ -1,0 +1,46 @@
+{
+  "expo": {
+    "name": "Be Rich",
+    "description": "Let's live rich people lifes.",
+    "slug": "berich",
+    "privacy": "public",
+    "sdkVersion": "33.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.fivepreapp.berich",
+      "buildNumber": "1",
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSCameraUsageDescription": "Profil fotoğrafınızı değiştirebilmemiz için kameranıza ihtiyacımız var.",
+        "NSPhotoLibraryUsageDescription": "Profil fotoğrafınızı değiştirebilmemiz için galerinize ihtiyacımız var."
+      }
+    },
+    "android": {
+      "versionCode": 2,
+      "package": "com.fivepreapp.berich"
+    },
+    "notification": {
+      "icon": "./assets/icon.png",
+      "color": "#00aced",
+      "androidMode": "default"
+    }
+  }
+}
