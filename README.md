@@ -59,3 +59,5 @@ Classic tap-tap game with simple React-Native components.
     "react-native-elements": "^1.1.0",
     "react-navigation": "^3.9.2"
 
+## Contributors
+***Hasret Özkan*** - ***[Website](hasretozkan.me)*** - [***LinkedIn***](linkedin.com/in/hasretozkan)
